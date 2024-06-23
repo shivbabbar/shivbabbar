@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on WordPress, Woocommerce, Laravel, React js
 - 🌱 I’m currently learning Python and Typescript
-- 👯 I’m looking to collaborate on Woocommerce
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on any Project
 - 📫 How to reach me: shiv.babbar.developer@gmail.com
 - ⚡ Fun fact: Music
 
